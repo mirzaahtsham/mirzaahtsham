@@ -50,3 +50,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Last Updated: Feb 23, 2025
+
+[website]: https://ahtsham.me
+[twitter]: https://twitter.com/websdesignwala/
+[facebook]: https://facebook.com/websitesdesignwala/
+[instagram]: https://instagram.com/websdesignwala/
+[linkedin]: https://www.linkedin.com/in/mirzaahtsham/
+[skype]: mirzaahtsham786
