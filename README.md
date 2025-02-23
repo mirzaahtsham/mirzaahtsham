@@ -4,6 +4,7 @@
 
 ## I'm a Web Designer & Developer, Researcher, a Cook & Good Husband 🤣!!!
 
+- 🔭 I’m currently working on Next Js, 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2025 Goals: Contribute more to Open Source projects
@@ -16,6 +17,8 @@
 [<img align="left" alt="web-design-genius | Facebook" width="22px" src="https://img.icons8.com/?size=100&id=CtrV2SV33rD9&format=png&color=000000" />][facebook]
 [<img align="left" alt="web-design-genius | LinkedIn" width="22px" src="https://img.icons8.com/?size=100&id=kFJzAZryEscq&format=png&color=000000" />][linkedin]
 [<img align="left" alt="web-design-genius | Instagram" width="22px" src="https://img.icons8.com/?size=100&id=ZRiAFreol5mE&format=png&color=000000" />][instagram]
+[<img align="left" alt="web-design-genius | Youtube" width="22px" src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" />][youtube]
+[<img align="left" alt="web-design-genius | Skype" width="22px" src="https://img.icons8.com/?size=100&id=63204&format=png&color=000000" />][skype]
 
 <br />
 
@@ -24,17 +27,46 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Tailwind CSS" width="26px" src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" />
+<img align="left" alt="Git" width="26px" src="https://img.icons8.com/?size=100&id=en2FZIAZdquE&format=png&color=000000" />
+<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/?size=100&id=efFfwotdkiU5&format=png&color=000000" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Wordpress" width="26px" src="https://img.icons8.com/?size=100&id=aMLZmDlq6SvC&format=png&color=000000" />
+<img align="left" alt="Shopify" width="26px" src="https://img.icons8.com/?size=100&id=uSHYbs6PJfMT&format=png&color=000000" />
+<img align="left" alt="Google Business" width="26px" src="https://img.icons8.com/?size=100&id=4y5FyfJdxJ3h&format=png&color=000000" />
+<img align="left" alt="Google Search Console" width="26px" src="https://img.icons8.com/?size=100&id=30844&format=png&color=000000" />
+<img align="left" alt="Google Fonts" width="26px" src="https://img.icons8.com/?size=100&id=uY6QHPV8g5bd&format=png&color=000000" />
+<img align="left" alt="Google Cloud Console" width="26px" src="https://img.icons8.com/?size=100&id=20774&format=png&color=000000" />
+<img align="left" alt="Code Pin" width="26px" src="https://img.icons8.com/?size=100&id=20795&format=png&color=000000" />
+<img align="left" alt="Cloudflare" width="26px" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.24.0/files/dark/cloudflare-color.png" />
 
 <br />
 <br />
+
+---
+
+<!-- ### 📕 Latest Blog Posts
+
+BLOG-POST-LIST:START
+- [Analyzing the word "Programming"](https://mudassirmirza.blogspot.com/2019/06/analyzing-word-programming_14.html)
+- [Cryptocurrency! Which one is the best to invest?](https://mudassirmirza.blogspot.com/2019/06/in-21st-century-humanlife-is-altered.html)
+- [Should all students be required to take a course in Computer Science?](https://mudassirmirza.blogspot.com/2019/06/should-all-students-be-required-to-take.html)
+BLOG-POST-LIST:END
+
+➡️ [more blog posts...](https://mudassirmirza.blogspot.com/) -->
+
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  ![mirzaahtsham's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mirzaahtsham&theme=vue-dark&hide_border=false)
+  ![mirzaahtsham's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzaahtsham&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+
+</details>
 
 <!--
 **mirzaahtsham/mirzaahtsham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -57,5 +89,6 @@ Last Updated: Feb 23, 2025
 [twitter]: https://twitter.com/websdesignwala/
 [facebook]: https://facebook.com/websitesdesignwala/
 [instagram]: https://instagram.com/websdesignwala/
+[youtube]: https://www.youtube.com/channel/UCECmARzL9NsJiDpe01t6PWw??sub_confirmation=1
 [linkedin]: https://www.linkedin.com/in/mirzaahtsham/
-[skype]: mirzaahtsham786
+[skype]: https://join.skype.com/invite/jeVUxggjiQxz
