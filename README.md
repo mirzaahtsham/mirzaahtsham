@@ -1,10 +1,10 @@
 ### Hi there, I'm Mirza Ahtsham - aka [Web Design Genius][website] 👋
 
 [![Website](https://img.shields.io/website?label=ahtsham.me&style=for-the-badge&url=https%3A%2F%2Fportfolio-b7s.pages.dev)](https://portfolio-b7s.pages.dev)
-
+[![GitHub Repo stars](https://img.shields.io/github/stars/mirzaahtsham?style=social)](https://github.com/mirzaahtsham)
 ## I'm a Web Designer & Developer, Researcher, a Cook & Good Husband 🤣!!!
 
-- 🔭 I’m currently working on Next Js, 
+- 🔭 I’m currently working on Next Js, Tailwind CSS & Cloudflare...
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2025 Goals: Contribute more to Open Source projects
@@ -63,7 +63,6 @@ BLOG-POST-LIST:END
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  ![mirzaahtsham's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mirzaahtsham&theme=vue-dark&hide_border=false)
   ![mirzaahtsham's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzaahtsham&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 </details>
