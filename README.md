@@ -1,7 +1,9 @@
 ### Hi there, I'm Mirza Ahtsham - aka [Web Design Genius][website] 👋
 
 [![Website](https://img.shields.io/website?label=ahtsham.me&style=for-the-badge&url=https%3A%2F%2Fportfolio-b7s.pages.dev)](https://portfolio-b7s.pages.dev)
+[![Discord](https://img.shields.io/discord/1344346817109819536?label=Discord)](https://discord.gg/4RnpzDGv)
 [![GitHub Repo stars](https://img.shields.io/github/stars/mirzaahtsham?style=social)](https://github.com/mirzaahtsham)
+<!-- [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/Stirling-Tools/Stirling-PDF/badge)](https://scorecard.dev/viewer/?uri=github.com/Stirling-Tools/Stirling-PDF) -->
 ## I'm a Web Designer & Developer, Researcher, a Cook & Good Husband 🤣!!!
 
 - 🔭 I’m currently working on Next Js, Tailwind CSS & Cloudflare...
