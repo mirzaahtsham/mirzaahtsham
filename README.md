@@ -50,6 +50,16 @@
 
 ---
 
+### 🚀 Passion for Web Development & Design  
+Hey there! I'm passionate about creating stunning, high-performance websites and sharing my knowledge with the community.  
+If my work has helped or inspired you, consider supporting me. Your support fuels my creativity and helps me build more awesome projects!  
+
+[![Your Support Matters! ✨](https://img.buymeacoffee.com/button-api/?text=Your+Support+Matters!&emoji=✨&slug=mirzaahtsham&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/mirzaahtsham)  
+
+**Every ☕ or 🍕 you buy keeps me coding and sharing more valuable resources. Thanks for being amazing!** 💙  
+
+---
+
 <!-- ### 📕 Latest Blog Posts
 
 BLOG-POST-LIST:START
@@ -60,7 +70,6 @@ BLOG-POST-LIST:END
 
 ➡️ [more blog posts...](https://mudassirmirza.blogspot.com/) -->
 
----
 
 <details>
   <summary>:zap: GitHub Stats</summary>
