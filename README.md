@@ -3,6 +3,10 @@
 [![Website](https://img.shields.io/website?label=ahtsham.me&style=for-the-badge&url=https%3A%2F%2Fportfolio-b7s.pages.dev)](https://portfolio-b7s.pages.dev)
 [![Discord](https://img.shields.io/discord/1344346817109819536?label=Discord)](https://discord.gg/4RnpzDGv)
 [![GitHub Repo stars](https://img.shields.io/github/stars/mirzaahtsham?style=social)](https://github.com/mirzaahtsham)
+![GitHub Follow](https://img.shields.io/github/followers/mirzaahtsham.svg?style=social&label=Follow)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/webdesignwala)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCECmARzL9NsJiDpe01t6PWw)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCECmARzL9NsJiDpe01t6PWw)
 <!-- [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/Stirling-Tools/Stirling-PDF/badge)](https://scorecard.dev/viewer/?uri=github.com/Stirling-Tools/Stirling-PDF) -->
 ## I'm a Web Designer & Developer, Researcher, a Cook & Good Husband 🤣!!!
 
