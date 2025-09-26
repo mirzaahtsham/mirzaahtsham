@@ -1,4 +1,5 @@
-### Hi there, I'm Mirza Ahtsham - aka [Web Design Genius][website] 👋
+### Hi there, I'm Mirza Ahtsham, Your Web Mentor aka [Web Design Genius][website] 👋
+>#### Become a Pro in Hosting, WordPress & Web Design with [Ahtsham Web Mentor](https://learnwith.ahtsham.me)
 
 [![Website](https://img.shields.io/website?label=ahtsham.me&style=for-the-badge&url=https%3A%2F%2Fportfolio-b7s.pages.dev)](https://portfolio-b7s.pages.dev)
 [![Discord](https://img.shields.io/discord/1344346817109819536?label=Discord)](https://discord.gg/4RnpzDGv)
@@ -64,16 +65,19 @@ If my work has helped or inspired you, consider supporting me. Your support fuel
 
 ---
 
-<!-- ### 📕 Latest Blog Posts
+### 📕 Latest Blog Posts
 
-BLOG-POST-LIST:START
-- [Analyzing the word "Programming"](https://mudassirmirza.blogspot.com/2019/06/analyzing-word-programming_14.html)
-- [Cryptocurrency! Which one is the best to invest?](https://mudassirmirza.blogspot.com/2019/06/in-21st-century-humanlife-is-altered.html)
-- [Should all students be required to take a course in Computer Science?](https://mudassirmirza.blogspot.com/2019/06/should-all-students-be-required-to-take.html)
-BLOG-POST-LIST:END
-
-➡️ [more blog posts...](https://mudassirmirza.blogspot.com/) -->
-
+<!-- BLOG-POST-LIST:START -->
+| SR# | 📑 Articles |
+|--------|-------------|
+| **1** | [Customizing Contact Form 7 in WordPress with Web Design Genius](https://www.linkedin.com/pulse/customizing-contact-form-7-wordpress-web-design-mirza-ahtsham-blcif) |
+| **2** | [Google Search Console (GSC): A Complete Guide for Beginners](https://www.linkedin.com/pulse/google-search-console-gsc-complete-guide-beginners-mirza-ahtsham-spflf/) |
+| **3** | [How to Set Up Contact Form 7 in WordPress (Step-by-Step Guide)](https://www.linkedin.com/pulse/how-set-up-contact-form-7-wordpress-step-by-step-mirza-ahtsham-suwef/) |
+| **4** | [Web Development Using WordPress and Elementor: A Complete Guide](https://www.linkedin.com/pulse/web-development-using-wordpress-elementor-complete-mirza-ahtsham-le4bf/) |
+<!-- BLOG-POST-LIST:END -->
+<details>
+<summary>:newspaper: more blog Coming soon...</summary>
+</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
