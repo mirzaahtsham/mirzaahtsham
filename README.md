@@ -109,83 +109,24 @@ I am a Web Designer, WordPress & Shopify Developer and Technical SEO-focused web
 
 ## ⚙️ Platforms, Integrations & Tools
 
-### WordPress & Optimization
+| ✓ | WordPress & Optimization | Hosting & Cloud | Technical SEO & Tracking | Payments & E-commerce | Communication & Productivity |
+|---|---|---|---|---|---|
+| ✓ | Elementor Pro | Cloudflare | Google Analytics | PayPal | Google Workspace |
+| ✓ | XStore Theme | VPS | Google Tag Manager | Stripe | Zoho Mail |
+| ✓ | WP Rocket | cPanel | Google Search Console | Shop Pay | WhatsApp |
+| ✓ | LiteSpeed Cache | SiteGround | Google Merchant Center | Tabby | Tawk.to |
+| ✓ | Accelerator | Hostinger | Bing Webmaster | GoPayFast | SalesIQ |
+| ✓ | UpdraftPlus | Namecheap | Yandex Webmaster | Network International | GitHub |
+| ✓ | WP SMTP | Netlify | Meta Pixel |  | Git |
+| ✓ | Contact Form 7 | Vercel | Microsoft Clarity |  | VS Code |
+| ✓ | Google Site Kit |  | Matomo Analytics |  | Trello |
+| ✓ ||||| ClickUp |
+| ✓ ||||| Slack |
+| ✓ ||||| Discord |
+| ✓ ||||| Cliq |
+| ✓ ||||| Orange CRM |
+| ✓ ||||| Microsoft Office |
 
-| # | Usefull Plugins |
-|---|---|
-| ✓ | Elementor Pro |
-| ✓ | XStore Theme |
-| ✓ | WP Rocket |
-| ✓ | LiteSpeed Cache |
-| ✓ | Accelerator |
-| ✓ | Google Site |
-| ✓ | Matomo Analytics |
-| ✓ | UpdraftPlus |
-| ✓ | WP SMTP |
-| ✓ | Contact Form 7 |
-
-### Hosting & Cloud
-
-| # | Managing and Maintenance |
-|---|---|
-| ✓ | Cloudflare |
-| ✓ | VPS |
-| ✓ | cPanel |
-| ✓ | SiteGround |
-| ✓ | Hostinger |
-| ✓ | Namecheap |
-| ✓ | Netlify |
-| ✓ | Vercel |
-
-### Technical SEO & Tracking
-
-| # | SEO Integrations |
-|---|---|
-| ✓ | Google Analytics |
-| ✓ | Google Tag Manager |
-| ✓ | Google Search Console |
-| ✓ | Google Merchant Center |
-| ✓ | Bing Webmaster |
-| ✓ | Yandex Webmaster |
-| ✓ | Meta Pixel |
-| ✓ | Microsoft Clarity |
-
-### Payments & E-commerce
-
-| # | Payments Gateways |
-|---|---|
-| ✓ | PayPal |
-| ✓ | Stripe |
-| ✓ | Shop Pay |
-| ✓ | Tabby |
-| ✓ | GoPayFast |
-| ✓ | Network International |
-
-### Email, Chatbots & Communication
-
-| # | Third party integrations |
-|---|---|
-| ✓ | Google Workspace |
-| ✓ | Zoho Mail |
-| ✓ | WhatsApp |
-| ✓ | Tawk.to |
-| ✓ | SalesIQ |
-
-### Productivity & Collaboration
-
-| # | --- |
-|---|---|
-| ✓ | GitHub |
-| ✓ | Git |
-| ✓ | VS Code |
-| ✓ | Trello |
-| ✓ | SalesIQ |
-| ✓ | ClickUp |
-| ✓ | Slack |
-| ✓ | Discord |
-| ✓ | Cliq |
-| ✓ | Orange CRM |
-| ✓ | Microsoft Office |
 
 ---
 
