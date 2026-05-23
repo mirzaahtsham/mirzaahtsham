@@ -51,6 +51,13 @@ I am a Web Designer, WordPress & Shopify Developer and Technical SEO-focused web
 - ☁️ Experienced with VPS hosting, cPanel, Cloudflare and business email configuration
 - 🌱 Currently improving my skills in Next.js, Tailwind CSS and modern frontend development
 
+## 🌍 Availability
+
+- 🌎 Open to Remote Opportunities
+- 🇦🇪 Open to UAE-based Roles
+- 🤝 Available for Freelance Projects
+- 💼 Available for WordPress, Shopify & Technical SEO Consulting
+
 ---
 
 ## 🚀 Core Services & Expertise
@@ -125,7 +132,7 @@ I am a Web Designer, WordPress & Shopify Developer and Technical SEO-focused web
 
 ## ⚙️ Platforms, Integrations & Tools
 
-| ✓ | WordPress & Optimization | Hosting & Cloud | Technical SEO & Tracking | Payments & E-commerce | Communication & Productivity |
+| # | WordPress & Optimization | Hosting & Cloud | Technical SEO & Tracking | Payments & E-commerce | Communication & Productivity |
 |---|---|---|---|---|---|
 | ✓ | Elementor Pro | Cloudflare | Google Analytics | PayPal | Google Workspace |
 | ✓ | XStore Theme | VPS | Google Tag Manager | Stripe | Zoho Mail |
@@ -136,12 +143,12 @@ I am a Web Designer, WordPress & Shopify Developer and Technical SEO-focused web
 | ✓ | WP SMTP | Netlify | Meta Pixel |  | Git |
 | ✓ | Contact Form 7 | Vercel | Microsoft Clarity |  | VS Code |
 | ✓ | Google Site Kit |  | Matomo Analytics |  | Trello |
-| ✓ ||||| ClickUp |
-| ✓ ||||| Slack |
-| ✓ ||||| Discord |
-| ✓ ||||| Cliq |
-| ✓ ||||| Orange CRM |
-| ✓ ||||| Microsoft Office |
+| ✓ |  |  |  |  | ClickUp |
+| ✓ |  |  |  |  | Slack |
+| ✓ |  |  |  |  | Discord |
+| ✓ |  |  |  |  | Cliq |
+| ✓ |  |  |  |  | Orange CRM |
+| ✓ |  |  |  |  | Microsoft Office |
 
 
 ---
