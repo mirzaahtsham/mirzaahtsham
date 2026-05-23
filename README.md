@@ -153,7 +153,7 @@ I am a Web Designer, WordPress & Shopify Developer and Technical SEO-focused web
 | Project | Focus | Status |
 |---|---|---|
 | WordPress Speed Optimization Case Study | Core Web Vitals, WP Rocket, Cloudflare, Caching | Coming Soon |
-| Shopify Store Optimization Case Study | Shopify setup, product pages, conversion improvements | Coming Soon |
+| Shopify Multi-Region Store Setup | Multi-currency, multi-language and region-based Shopify configuration | Coming Soon |
 | Technical SEO Audit Case Study | Search Console, tracking, indexing, SEO structure | Coming Soon |
 | Elementor Business Website Case Study | WordPress, Elementor Pro, responsive business website | Coming Soon |
 
@@ -169,10 +169,11 @@ I am a Web Designer, WordPress & Shopify Developer and Technical SEO-focused web
 - Core Web Vitals improvement
 
 ### Shopify Store Optimization
-- Product page improvement
-- Mobile responsiveness
-- App and theme optimization
-- Conversion-focused layout improvements
+- Multi-region Shopify setup
+- Currency and language localization
+- Payment gateway integration
+- Mobile responsiveness optimization
+- Conversion-focused improvements
 
 ### Technical SEO Setup
 - Google Search Console setup
